@@ -22,4 +22,4 @@
 # Ignore temporal files produced by excel
 data/*
 image/*.pptx
-output
+
